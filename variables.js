@@ -4,13 +4,13 @@ const pi = 3.1416;
 let booleanVar = true;
 let undefinedVar;
 
-/* console.log(
+console.log(
   typeof mensaje,
   typeof numberVar,
   typeof pi,
   typeof booleanVar,
   typeof undefinedVar
-); */
+);
 
 mensaje = 1;
 
